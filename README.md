@@ -317,7 +317,7 @@ For issues, questions, or assistance:
 
 ## 📜 License
 
-Not specified. Please add appropriate license information.
+Copyright reserved. Only for study purposes.
 
 ---
 
